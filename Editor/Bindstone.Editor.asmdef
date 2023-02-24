@@ -1,0 +1,19 @@
+{
+    "name": "BindstoneEditor",
+    "rootNamespace": "BindstoneEditor",
+    "references": [
+        "GUID:8d9284c93df0cf54989b31ac1ed2ea01",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

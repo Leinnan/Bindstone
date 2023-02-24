@@ -1,0 +1,20 @@
+{
+    "name": "com.leinnan.bindstone",
+    "version": "0.8.1",
+    "displayName": "Bindstone",
+    "description": " MVVM-style data-binding system for Unity.",
+    "unity": "2018.1",
+    "keywords": [
+      "gui",
+      "mvvm",
+      "interface",
+      "ui",
+      "canvas",
+      "scenes"
+    ],
+    "author": {
+      "name": "Piotr Siuszko",
+      "email": "contact@mevlyshkin.com",
+      "url": "https://www.mevlyshkin.com"
+    }
+  }
