@@ -11,7 +11,7 @@
 ## Installation
 
 Add the following line to *Packages/manifest.json*:
-  - `"com.leinnan.unity-weld": "git+https://github.com/Leinnan/Bindstone",`
+  - `"com.leinnan.bindstone": "git+https://github.com/Leinnan/Bindstone",`
 
 ---
 ---
