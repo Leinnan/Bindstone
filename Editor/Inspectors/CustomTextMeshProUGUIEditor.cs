@@ -1,7 +1,7 @@
 ﻿using TMPro;
 using UnityEditor;
 
-namespace BindstoneEditor.BuiltInExtensions
+namespace BindstoneEditor.Inspectors
 {
     [CustomEditor(typeof(TextMeshProUGUI))]
     public class CustomTextMeshProUGUIEditor : BaseBuiltinClassExtensionEditor<TextMeshProUGUI>

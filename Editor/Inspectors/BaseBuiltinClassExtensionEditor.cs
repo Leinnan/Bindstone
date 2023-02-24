@@ -4,9 +4,9 @@ using Bindstone.Binding;
 using UnityEditor;
 using UnityEngine;
 
-namespace BindstoneEditor.BuiltInExtensions
+namespace BindstoneEditor.Inspectors
 {
-    public abstract class BaseBuiltinClassExtensionEditor<T> : Editor where T : Component
+    public abstract class BaseBuiltinClassExtensionEditor<T> : UnityEditor.Editor where T : Component
     {
         public abstract bool OneWayBinding { get; }
         public bool HasModelInParents { get; private set; }
